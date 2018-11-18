@@ -1,0 +1,20 @@
+{
+  "name": "cleanweb",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^2.11.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-handlebars": "*",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.3.12",
+    "mongoose-auto-increment": "^5.0.1",
+    "morgan": "~1.9.0",
+    "winston": "^3.1.0"
+  }
+}
