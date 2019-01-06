@@ -11,10 +11,15 @@
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "express-handlebars": "*",
+    "handlebars-helpers": "^0.10.0",
     "http-errors": "~1.6.2",
     "mongoose": "^5.3.12",
     "mongoose-auto-increment": "^5.0.1",
     "morgan": "~1.9.0",
+    "simplemde": "^1.11.2",
     "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0"
   }
 }
